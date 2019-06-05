@@ -1,4 +1,4 @@
-package EDF.MAvenRelease;
+package edfMAvenRelease;
 
 /**
  * Hello world!

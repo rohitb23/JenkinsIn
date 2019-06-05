@@ -1,4 +1,4 @@
-package EDF.MAvenRelease;
+package edfMAvenRelease;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

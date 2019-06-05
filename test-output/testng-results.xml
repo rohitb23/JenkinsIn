@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4600" started-at="2019-06-05T07:13:55Z" finished-at="2019-06-05T07:13:59Z">
+  <suite name="Default suite" duration-ms="5771" started-at="2019-06-05T07:41:32Z" finished-at="2019-06-05T07:41:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4600" started-at="2019-06-05T07:13:55Z" finished-at="2019-06-05T07:13:59Z">
-      <class name="EDF.MAvenRelease.NewTestMajor">
-        <test-method status="PASS" signature="ChromeSetup()[pri:0, instance:EDF.MAvenRelease.NewTestMajor@64bfbc86]" name="ChromeSetup" is-config="true" duration-ms="3215" started-at="2019-06-05T07:13:55Z" finished-at="2019-06-05T07:13:58Z">
+    <test name="Default test" duration-ms="5771" started-at="2019-06-05T07:41:32Z" finished-at="2019-06-05T07:41:38Z">
+      <class name="edfMAvenRelease.NewTestMajor">
+        <test-method status="PASS" signature="ChromeSetup()[pri:0, instance:edfMAvenRelease.NewTestMajor@55d56113]" name="ChromeSetup" is-config="true" duration-ms="3114" started-at="2019-06-05T07:41:32Z" finished-at="2019-06-05T07:41:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ChromeSetup -->
-        <test-method status="PASS" signature="CheckCal()[pri:0, instance:EDF.MAvenRelease.NewTestMajor@64bfbc86]" name="CheckCal" duration-ms="9" started-at="2019-06-05T07:13:58Z" finished-at="2019-06-05T07:13:58Z">
+        <test-method status="PASS" signature="CheckCal()[pri:0, instance:edfMAvenRelease.NewTestMajor@55d56113]" name="CheckCal" duration-ms="5" started-at="2019-06-05T07:41:36Z" finished-at="2019-06-05T07:41:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckCal -->
-        <test-method status="PASS" signature="f()[pri:0, instance:EDF.MAvenRelease.NewTestMajor@64bfbc86]" name="f" duration-ms="656" started-at="2019-06-05T07:13:58Z" finished-at="2019-06-05T07:13:59Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:edfMAvenRelease.NewTestMajor@55d56113]" name="f" duration-ms="1949" started-at="2019-06-05T07:41:36Z" finished-at="2019-06-05T07:41:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="ClosingInstance()[pri:0, instance:EDF.MAvenRelease.NewTestMajor@64bfbc86]" name="ClosingInstance" is-config="true" duration-ms="695" started-at="2019-06-05T07:13:59Z" finished-at="2019-06-05T07:13:59Z">
+        <test-method status="PASS" signature="ClosingInstance()[pri:0, instance:edfMAvenRelease.NewTestMajor@55d56113]" name="ClosingInstance" is-config="true" duration-ms="680" started-at="2019-06-05T07:41:38Z" finished-at="2019-06-05T07:41:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClosingInstance -->
-      </class> <!-- EDF.MAvenRelease.NewTestMajor -->
+      </class> <!-- edfMAvenRelease.NewTestMajor -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

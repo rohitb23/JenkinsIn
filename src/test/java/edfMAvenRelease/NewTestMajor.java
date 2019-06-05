@@ -1,4 +1,4 @@
-package EDF.MAvenRelease;
+package edfMAvenRelease;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
