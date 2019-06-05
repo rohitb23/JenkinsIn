@@ -20,6 +20,13 @@ public class NewTestMajor {
 	  Assert.assertEquals("Checking Title","Google", driver.getTitle());
   }
   
+  @Test
+  public void CheckCal() {
+	  
+	  System.out.println(4*4*4);
+	  
+  }
+  
   
   @BeforeClass
   public void ChromeSetup() {
